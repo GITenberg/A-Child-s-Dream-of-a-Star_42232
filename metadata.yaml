@@ -1,0 +1,48 @@
+_repo: A-Child-s-Dream-of-a-Star_42232
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Billings, Hammatt
+    aliases:
+    - Billings, Hammett
+    - Billings
+    - Billings, Charles Howland Hammatt
+    birthdate: 1818
+    deathdate: 1874
+    gutenberg_agent_id: '32150'
+    url: http://www.gutenberg.org/2009/agents/32150
+    wikipedia: http://en.wikipedia.org/wiki/Hammatt_Billings
+covers:
+- cover_type: archival
+  image_path: 42232-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: A child's dream of a star -- The child's story -- The schoolboy's story.
+gutenberg_issued: '2013-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42232'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children and death -- Juvenile fiction'
+- !lcsh 'Children -- Death -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Heaven -- Juvenile fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcc 'PZ'
+- !lcsh 'Grief -- Juvenile fiction'
+title: A Child's Dream of a Star
+url: http://www.gutenberg.org/ebooks/42232
